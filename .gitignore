@@ -72,3 +72,25 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/Projects/InfinityBladeEffects
+/DownloadedFiles
+/Content/Vehicles
+/Content/VaOceanMobile
+/Content/UltimateTouchComponents
+/Content/UI
+/Content/ThirdPerson
+/Content/Realistic_Starter_VFX_Pack_Vol2
+/Content/Projects
+/Content/Port
+/Content/Characters
+/Content/1_MyWorkingSpace/Textures
+/Content/1_MyWorkingSpace/StaticMesh
+/Content/1_MyWorkingSpace/VFX
+/Content/1_MyWorkingSpace/Sound
+/Content/1_MyWorkingSpace/Sound
+/Plugins
+/Content/1_MyWorkingSpace/UI_360
+/Content/1_MyWorkingSpace/UI
+/Content/1_MyWorkingSpace/HUD
+/Content/WaterlinePRO
+/Content/Vefects
