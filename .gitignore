@@ -88,9 +88,5 @@ DerivedDataCache/*
 /Content/1_MyWorkingSpace/VFX
 /Content/1_MyWorkingSpace/Sound
 /Content/1_MyWorkingSpace/Sound
-/Plugins
 /Content/1_MyWorkingSpace/UI_360
-/Content/1_MyWorkingSpace/UI
-/Content/1_MyWorkingSpace/HUD
-/Content/WaterlinePRO
-/Content/Vefects
+/Content/1_MyWorkingSpace/UI/Textures/EXTRA_Textures
